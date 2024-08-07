@@ -1,0 +1,14 @@
+E:\CanNang\bin\Debug\net8.0\CanNang.exe
+E:\CanNang\bin\Debug\net8.0\CanNang.deps.json
+E:\CanNang\bin\Debug\net8.0\CanNang.runtimeconfig.json
+E:\CanNang\bin\Debug\net8.0\CanNang.dll
+E:\CanNang\bin\Debug\net8.0\CanNang.pdb
+E:\CanNang\obj\Debug\net8.0\CanNang.GeneratedMSBuildEditorConfig.editorconfig
+E:\CanNang\obj\Debug\net8.0\CanNang.AssemblyInfoInputs.cache
+E:\CanNang\obj\Debug\net8.0\CanNang.AssemblyInfo.cs
+E:\CanNang\obj\Debug\net8.0\CanNang.csproj.CoreCompileInputs.cache
+E:\CanNang\obj\Debug\net8.0\CanNang.dll
+E:\CanNang\obj\Debug\net8.0\refint\CanNang.dll
+E:\CanNang\obj\Debug\net8.0\CanNang.pdb
+E:\CanNang\obj\Debug\net8.0\CanNang.genruntimeconfig.cache
+E:\CanNang\obj\Debug\net8.0\ref\CanNang.dll
